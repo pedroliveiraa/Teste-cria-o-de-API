@@ -4,7 +4,7 @@
 
 API RESTful desenvolvida em Laravel para gerenciar produtos de uma loja online, implementando todas as funcionalidades solicitadas no teste prático para Backend Developer da Proxxy.
 
-**Desenvolvido por:** Estudante do 3º período de Desenvolvimento Web  
+**Desenvolvido por:Pedro Oliveira 
 **Framework:** Laravel 10.x  
 **Banco de dados:** MySQL  
 **Autenticação:** Laravel Sanctum
